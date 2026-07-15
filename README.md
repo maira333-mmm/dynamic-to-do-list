@@ -273,8 +273,8 @@ Open index.html in any modern web browser
 
 ## 👩‍💻 Maira Alam
 
-<a href="mailto:maira.alam33@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<a href="mailto:maira.alam33@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
 </a>
 
 <a href="https://github.com/maira333-mmm">
