@@ -12,12 +12,12 @@ A modern **Advanced To-Do List Application** built using **HTML, CSS, and JavaSc
 
 <br>
 
-<a href="https://github.com/maira333-mmm/todo-list-app">
+<a href="https://github.com/maira333-mmm/dynamic-to-do-list">
   <img src="https://img.shields.io/badge/📂_SOURCE_CODE-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
 </a>
 
-<a href="https://github.com/maira333-mmm/todo-list-app/commits/main">
-  <img src="https://img.shields.io/github/last-commit/maira333-mmm/todo-list-app?style=for-the-badge&label=LAST%20UPDATE" alt="Last Update"/>
+<a href="https://github.com/maira333-mmm/dynamic-to-do-list/commits/main">
+  <img src="https://img.shields.io/github/last-commit/maira333-mmm/dynamic-to-do-list?style=for-the-badge&label=LAST%20UPDATE" alt="Last Update"/>
 </a>
 
 <br><br>
@@ -317,22 +317,25 @@ See the **LICENSE** file for more information.
 
 ## ❤️ Built with HTML, CSS & JavaScript
 
+<div align="center">
+
+## ❤️ Built with HTML, CSS & JavaScript
+
 ### Made with 💙 by **Maira Alam**
 
 ⭐ If you found this project helpful, consider giving it a star!
 
 <br>
 
-<a href="https://github.com/maira333-mmm/todo-list-app">
-<img src="https://img.shields.io/github/stars/maira333-mmm/todo-list-app?style=social" alt="GitHub Stars"/>
+<a href="https://github.com/maira333-mmm/dynamic-to-do-list">
+  <img src="https://img.shields.io/github/stars/maira333-mmm/dynamic-to-do-list?style=social" alt="GitHub Stars"/>
 </a>
 
 <br><br>
 
-<a href="https://github.com/maira333-mmm/todo-list-app/commits/main">
-<img src="https://img.shields.io/github/last-commit/maira333-mmm/todo-list-app?style=for-the-badge&label=LAST%20UPDATE" alt="Last Update"/>
+<a href="https://github.com/maira333-mmm/dynamic-to-do-list/commits/main">
+  <img src="https://img.shields.io/github/last-commit/maira333-mmm/dynamic-to-do-list?style=for-the-badge&label=LAST%20UPDATE" alt="Last Update"/>
 </a>
 
 </div>
-
 
