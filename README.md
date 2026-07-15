@@ -317,10 +317,6 @@ See the **LICENSE** file for more information.
 
 ## ❤️ Built with HTML, CSS & JavaScript
 
-<div align="center">
-
-## ❤️ Built with HTML, CSS & JavaScript
-
 ### Made with 💙 by **Maira Alam**
 
 ⭐ If you found this project helpful, consider giving it a star!
